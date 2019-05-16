@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_model.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\menu_model.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\menu\\model.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_load_model.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\dialog_load_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_item.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_stl.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_create_stl.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_demo_item.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_demo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_demo.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_text.xml.flat",
+        "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\layout\\activity_text.xml"
+    }
+]

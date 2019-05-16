@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "8,20,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "222,811,364",
+                        "endLines": "10,22,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "356,972,803"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,192,356",
+                        "endLines": "4,7,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "187,351,789"
+                    }
+                }
+            ]
+        }
+    ]
+}

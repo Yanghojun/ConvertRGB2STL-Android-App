@@ -10,12 +10,14 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.Menu;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import org.andresoviedo.android_3d_model_engine.services.wavefront.WavefrontLoader;
+import org.andresoviedo.app.model3D.Create_STL_Activity;
 import org.andresoviedo.util.android.AndroidUtils;
 import org.andresoviedo.util.android.AssetUtils;
 import org.andresoviedo.util.android.ContentUtils;
@@ -41,7 +43,7 @@ public class MenuActivity extends ListActivity {
 
 
     private enum Action {
-        LOAD_MODEL, GITHUB, SETTINGS, HELP, ABOUT, EXIT, UNKNOWN, DEMO
+        CREATE_STL, LOAD_MODEL, GITHUB, SETTINGS, HELP, ABOUT, EXIT, UNKNOWN, DEMO
     }
 
     /**
@@ -60,7 +62,7 @@ public class MenuActivity extends ListActivity {
     @Override
     public void onListItemClick(ListView l, View v, int position, long id) {
         String selectedItem = (String) getListView().getItemAtPosition(position);
-        // Toast.makeText(getApplicationContext(), "Click ListItem '" + selectedItem + "'", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Click ListItem '" + selectedItem + "'", Toast.LENGTH_LONG).show();
         String selectedAction = selectedItem.replace(' ', '_').toUpperCase(Locale.getDefault());
         Action action = Action.UNKNOWN;
         try {
@@ -70,6 +72,11 @@ public class MenuActivity extends ListActivity {
         }
         try {
             switch (action) {
+                case CREATE_STL:
+                    Intent createIntent = new Intent(MenuActivity.this.getApplicationContext(), Create_STL_Activity.class);
+                    MenuActivity.this.startActivity(createIntent);
+                    Toast.makeText(this,"finished", Toast.LENGTH_LONG).show();
+                    break;
                 case DEMO:
                     Intent demoIntent = new Intent(MenuActivity.this.getApplicationContext(), ModelActivity.class);
                     demoIntent.putExtra("immersiveMode", "true");

@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "org.andresoviedo.dddmodel2"
-        minSdkVersion 8
+        minSdkVersion 15
         targetSdkVersion 27
     }
 
@@ -34,4 +34,6 @@ android {
 dependencies {
     implementation 'com.android.support:support-compat:27.1.1'
     implementation project(':engine')
+    implementation 'javax.vecmath:vecmath:1.5.2'
+    implementation 'org.scijava:j3dcore:1.6.0-scijava-2'
 }
