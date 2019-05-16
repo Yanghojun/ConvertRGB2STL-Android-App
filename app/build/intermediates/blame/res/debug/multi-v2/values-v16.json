@@ -1,16 +1,35 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\y\\GitExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lab-hci-03\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23b36c2fc4feee41823818842fde022\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\y\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e100be805765f90caad6bebc42e48ab8\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\y\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1e0c7b8ec1ac8ef6ff91192932884c11\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]

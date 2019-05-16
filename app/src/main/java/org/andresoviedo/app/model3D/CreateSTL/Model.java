@@ -341,7 +341,7 @@ public class Model //extends RenderWrapper implements ActionListener, ChangeList
     /**
      * writes the model to the path
      */
-    public void writeOutput() {
+    public void writeOutput(String fileName) {
         //이 if문은 좀 나중에 해결할 문제임
         //if (outputPath == null)
         //    return;
@@ -351,7 +351,7 @@ public class Model //extends RenderWrapper implements ActionListener, ChangeList
             if (!dir.exists())
                 dir.mkdir();
 
-            PrintWriter writer = new PrintWriter(new FileWriter(Environment.getExternalStorageDirectory().getAbsoluteFile() + "/STL/output.stl"), true);
+            PrintWriter writer = new PrintWriter(new FileWriter(Environment.getExternalStorageDirectory().getAbsoluteFile() + "/STL/"+fileName+".stl"), true);
             writer.println("solid Model");
             for (int i = 0; i < myTriangles.size(); i++) {
                 writer.println(myTriangles.get(i).toScaledString(scaleX,
@@ -368,105 +368,7 @@ public class Model //extends RenderWrapper implements ActionListener, ChangeList
     /**
      * Sets the path for where the file should be saved
      */
-    public void openSaveDialog() {
-        //어디다가 저장할지 지정하는 함수인듯 함
-        //outputPath는 그냥 내부저장소에다가 해놓으면 될테니 까 단순화하자
-        /*
-        JFileChooser fd = new JFileChooser();
-        fd.setFileFilter(new FileNameExtensionFilter("3D Models", "stl"));
-        fd.showSaveDialog(this);
-        if (fd.getSelectedFile() == null) {
-            outputPath = null;
-            return;
-        }
-        outputPath = fd.getSelectedFile().getPath();*/
-        outputPath = Environment.getExternalStorageDirectory().getAbsolutePath();
-        writeOutput();
-    }
 
-    // Decides what action is performed based on what button is pressed
-    // 버튼 리스너 처리하는 부분이 여기있었네
-    /*public void actionPerformed(ActionEvent arg0) {
-        Button b = (Button) arg0.getSource();
-        if (b.getLabel().equals("Write Output")) {
-            openSaveDialog();
-        } else if (b.getLabel().equals("Overwrite Output")) {
-            writeOutput();
-        } else if (b.getLabel().equals("Reset Orbit")) {
-            resetOrbit();
-        } else if (b.getLabel().equals("Smooth")) {
-            smooth();
-        }
-    }*/
-
-    private void smooth() {
-        HashMap<Vertex, ArrayList<Vertex>> adjacencies = new HashMap<Vertex, ArrayList<Vertex>>();
-        System.out.println("Smooting Started");
-        for (Triangle t : myTriangles) {
-            if (!adjacencies.containsKey(t.v1)) {
-                ArrayList<Vertex> temp = new ArrayList<Vertex>();
-                temp.add(t.v2);
-                temp.add(t.v3);
-                adjacencies.put(t.v1, temp);
-            } else {
-                ArrayList<Vertex> temp = adjacencies.get(t.v1);
-                if (!temp.contains(t.v2))
-                    temp.add(t.v2);
-                if (!temp.contains(t.v3))
-                    temp.add(t.v3);
-            }
-
-            if (!adjacencies.containsKey(t.v2)) {
-                ArrayList<Vertex> temp = new ArrayList<Vertex>();
-                temp.add(t.v1);
-                temp.add(t.v3);
-                adjacencies.put(t.v2, temp);
-            } else {
-                ArrayList<Vertex> temp = adjacencies.get(t.v2);
-                if (!temp.contains(t.v1))
-                    temp.add(t.v1);
-                if (!temp.contains(t.v3))
-                    temp.add(t.v3);
-            }
-
-            if (!adjacencies.containsKey(t.v3)) {
-                ArrayList<Vertex> temp = new ArrayList<Vertex>();
-                temp.add(t.v2);
-                temp.add(t.v1);
-                adjacencies.put(t.v3, temp);
-            } else {
-                ArrayList<Vertex> temp = adjacencies.get(t.v3);
-                if (!temp.contains(t.v2))
-                    temp.add(t.v2);
-                if (!temp.contains(t.v1))
-                    temp.add(t.v1);
-            }
-        }
-        System.out.println("replacing vertexes");
-        HashMap<Vertex, Vertex> replacements = new HashMap<Vertex, Vertex>();
-        for (Vertex v : adjacencies.keySet()) {
-            replacements.put(v, Vertex.getAverage(adjacencies.get(v)));
-        }
-        for (Vertex v : replacements.keySet()) {
-            v.deepCopy(replacements.get(v));
-        }
-        System.out.println("render");
-        //render(myTriangles); 이부분도 에러나서 에러처리
-    }
-
-
-    //이게 언제 쓰일까나??
-    /*public void stateChanged(ChangeEvent e) {
-        JSlider s = (JSlider) (e.getSource());
-        if (s.getName().contains("X")) {
-            scaleX = s.getValue() / 10.0;
-        } else if (s.getName().contains("Y")) {
-            scaleY = s.getValue() / 10.0;
-        } else if (s.getName().contains("Z")) {
-            scaleZ = s.getValue() / 10.0;
-        }
-        rescale(scaleX / 12, scaleY / 12, scaleZ / 12);
-    }*/
 
 }
 

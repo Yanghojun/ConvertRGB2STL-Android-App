@@ -36,4 +36,6 @@ dependencies {
     implementation project(':engine')
     implementation 'javax.vecmath:vecmath:1.5.2'
     implementation 'org.scijava:j3dcore:1.6.0-scijava-2'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }

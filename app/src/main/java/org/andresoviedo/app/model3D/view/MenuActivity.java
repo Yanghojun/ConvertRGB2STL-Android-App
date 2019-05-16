@@ -75,7 +75,6 @@ public class MenuActivity extends ListActivity {
                 case CREATE_STL:
                     Intent createIntent = new Intent(MenuActivity.this.getApplicationContext(), Create_STL_Activity.class);
                     MenuActivity.this.startActivity(createIntent);
-                    Toast.makeText(this,"finished", Toast.LENGTH_LONG).show();
                     break;
                 case DEMO:
                     Intent demoIntent = new Intent(MenuActivity.this.getApplicationContext(), ModelActivity.class);

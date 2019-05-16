@@ -27,11 +27,13 @@ import android.support.annotation.Nullable;
 import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import org.andresoviedo.app.model3D.CreateSTL.Global;
@@ -68,6 +70,7 @@ public class Create_STL_Activity extends Activity {
     private String path; //Select 버튼을 누르면 가져온 이미지에 대한 경로를 이 path에다가 저장
     Model myModel = new Model();
     Runner run;
+    public TextView tvStatus;
 
     //      /storage/0/ 이 사용가능한지 여부를 반환하는 함수
     public static boolean checkAvailable() {
@@ -88,11 +91,10 @@ public class Create_STL_Activity extends Activity {
         while (!granted) ;
 
         mHandler = new Handler();
+        tvStatus = (TextView)findViewById(R.id.tvStatus);
         Button btCreate = findViewById(R.id.btCreate);
         Button btSelect = findViewById(R.id.btSelect);
         ivImage = findViewById(R.id.ivImage);
-
-        createSTL STL = new createSTL(); //비동기적으로 진행하기 위한 코드
 
         //여기있던 2줄 주석 처리하고 이벤트 부분에 넣을거야
         //Runner myRunner = new Runner();
@@ -109,6 +111,7 @@ public class Create_STL_Activity extends Activity {
         btSelect.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Global.createSuccess = false;
                 Intent intent = new Intent();
                 intent.setType("image/*");
                 intent.setAction(Intent.ACTION_GET_CONTENT);
@@ -120,50 +123,25 @@ public class Create_STL_Activity extends Activity {
 
             @Override
             public void onClick(View v) {
-                STL.execute();
-                /*new Thread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Runner.myModel.writeOutput();
-                        System.out.println("Done!!");
-                    }
-                }).start();*/
+                Intent intent = new Intent(Create_STL_Activity.this, PopUpActivity.class);
+                startActivity(intent);
             }
         });
 
 
     }
 
-    private class createSTL extends AsyncTask<Void, Void, Void> {
+    @Override
+    protected void onResume() {
+        super.onResume();
 
-        ProgressDialog asyncDialog = new ProgressDialog(
-                Create_STL_Activity.this);
+        if (Global.createSuccess)
+            tvStatus.setText("파일추출에 성공하였습니다");
+        else
+            tvStatus.setText("");
 
-        @Override
-        protected void onPreExecute() {
-            asyncDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-            asyncDialog.setMessage("로딩중입니다..");
-
-            // show dialog
-            asyncDialog.show();
-            super.onPreExecute();
-        }
-
-        @Override
-        protected Void doInBackground(Void... voids) {
-            Runner.myModel.writeOutput();
-            return null;
-        }
-
-        @Override
-        protected void onPostExecute(Void aVoid) {
-            super.onPostExecute(aVoid);
-            System.out.println("Done!!");
-            asyncDialog.dismiss();
-        }
-
+        Log.e("onResume", "onResume");
     }
-
 
     public void check() {
         // 동의 0, 비동의 -1
