@@ -1,4 +1,0 @@
-#Wed May 15 21:34:23 KST 2019
-base.0=C\:\\Users\\lab-hci-03\\Desktop\\3d\\android-3D-model-viewer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
