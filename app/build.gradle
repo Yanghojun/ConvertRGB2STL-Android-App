@@ -7,6 +7,7 @@ android {
         applicationId "org.andresoviedo.dddmodel2"
         minSdkVersion 15
         targetSdkVersion 27
+        multiDexEnabled true
     }
 
     signingConfigs {
@@ -38,4 +39,5 @@ dependencies {
     implementation 'org.scijava:j3dcore:1.6.0-scijava-2'
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'com.android.support:multidex:1.0.3'
 }

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\y\\GitExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Users\\hojun_window\\Desktop\\GitExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\y\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1e0c7b8ec1ac8ef6ff91192932884c11\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\hojun_window\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\bab25042bf3f2e799e1a6a3c9a91d71a\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\y\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e100be805765f90caad6bebc42e48ab8\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\hojun_window\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\cecbb3bfd612dc790e3c32ce61f7f804\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

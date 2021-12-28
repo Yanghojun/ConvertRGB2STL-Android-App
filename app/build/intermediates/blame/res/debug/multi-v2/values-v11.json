@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\y\\GitExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\hojun_window\\Desktop\\GitExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\y\\GitExample\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "C:\\Users\\hojun_window\\Desktop\\GitExample\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "8,20,12",
                         "startColumns": "4,4,4",

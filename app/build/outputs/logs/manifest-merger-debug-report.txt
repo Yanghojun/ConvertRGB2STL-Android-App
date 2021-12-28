@@ -1,168 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-MERGED from [:engine] C:\Users\y\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e0c7b8ec1ac8ef6ff91192932884c11\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\afd711952ccb476a1f45606110a67794\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e1faa6a7c569e7d691a1b6f1ed13ab\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8536f9c78daff77757d28dd1cfcba427\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f848c0ce062b2e974e99846c0cc86640\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\be521916f83abae21c41c3601057a713\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e100be805765f90caad6bebc42e48ab8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\y\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d52086dfbe0c44dad9c756c3bcfd3a9\AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\101fa98427f505aa25c0c12a3fa19b16\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afb57ad86ad7fc1eaa2c94951dd28515\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e575131f53389bc818c292c411c10161\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12e9a3d994155b9ab874a419bf64460b\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\800c8a34590c2cefa7d765c024a80900\AndroidManifest.xml:17:1-22:12
+MERGED from [:engine] C:\Users\hojun_window\Desktop\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bab25042bf3f2e799e1a6a3c9a91d71a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\466bf692ee05329c90821a841890369f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\31d51bbe7b8000e2a283666250ea27dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4fe3a715b788b1a1e573db849d782404\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5f576350cb5c1d23feeae52992714c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e51b469cd128eb823d37626c0d5a7cb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cecbb3bfd612dc790e3c32ce61f7f804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\261630912fde017ddcaf1ab8b66d558b\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9bce38fbf0f176994af187f859e77f0d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f414e3953fe6db9a909065a46533141e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98928caac0f1bc78ba8126ffd28eb83c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a07b27ffd602d82036cbe57bfd7f1df\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:4:5-41
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:6:5-32
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:5:5-29
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
-MERGED from [:engine] C:\Users\y\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:engine] C:\Users\y\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e0c7b8ec1ac8ef6ff91192932884c11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e0c7b8ec1ac8ef6ff91192932884c11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\afd711952ccb476a1f45606110a67794\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\afd711952ccb476a1f45606110a67794\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e1faa6a7c569e7d691a1b6f1ed13ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e1faa6a7c569e7d691a1b6f1ed13ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8536f9c78daff77757d28dd1cfcba427\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8536f9c78daff77757d28dd1cfcba427\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f848c0ce062b2e974e99846c0cc86640\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f848c0ce062b2e974e99846c0cc86640\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\be521916f83abae21c41c3601057a713\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\be521916f83abae21c41c3601057a713\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e100be805765f90caad6bebc42e48ab8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\y\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e100be805765f90caad6bebc42e48ab8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\y\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d52086dfbe0c44dad9c756c3bcfd3a9\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\y\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d52086dfbe0c44dad9c756c3bcfd3a9\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\101fa98427f505aa25c0c12a3fa19b16\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\101fa98427f505aa25c0c12a3fa19b16\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afb57ad86ad7fc1eaa2c94951dd28515\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\afb57ad86ad7fc1eaa2c94951dd28515\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e575131f53389bc818c292c411c10161\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e575131f53389bc818c292c411c10161\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12e9a3d994155b9ab874a419bf64460b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\y\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12e9a3d994155b9ab874a419bf64460b\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
-INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\800c8a34590c2cefa7d765c024a80900\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\800c8a34590c2cefa7d765c024a80900\AndroidManifest.xml:20:5-43
+MERGED from [:engine] C:\Users\hojun_window\Desktop\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:engine] C:\Users\hojun_window\Desktop\GitExample\engine\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bab25042bf3f2e799e1a6a3c9a91d71a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bab25042bf3f2e799e1a6a3c9a91d71a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\466bf692ee05329c90821a841890369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\466bf692ee05329c90821a841890369f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\31d51bbe7b8000e2a283666250ea27dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\31d51bbe7b8000e2a283666250ea27dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4fe3a715b788b1a1e573db849d782404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4fe3a715b788b1a1e573db849d782404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5f576350cb5c1d23feeae52992714c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d5f576350cb5c1d23feeae52992714c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e51b469cd128eb823d37626c0d5a7cb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e51b469cd128eb823d37626c0d5a7cb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cecbb3bfd612dc790e3c32ce61f7f804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cecbb3bfd612dc790e3c32ce61f7f804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\261630912fde017ddcaf1ab8b66d558b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\261630912fde017ddcaf1ab8b66d558b\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9bce38fbf0f176994af187f859e77f0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9bce38fbf0f176994af187f859e77f0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f414e3953fe6db9a909065a46533141e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f414e3953fe6db9a909065a46533141e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98928caac0f1bc78ba8126ffd28eb83c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98928caac0f1bc78ba8126ffd28eb83c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a07b27ffd602d82036cbe57bfd7f1df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a07b27ffd602d82036cbe57bfd7f1df\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
 	tools:overrideLibrary
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:10:9-79
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:10:9-79
 	android:targetSdkVersion
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
-		INJECTED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:8:5-10:82
+		INJECTED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:12:5-14:35
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:12:5-14:35
 	android:glEsVersion
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:13:9-41
 	android:required
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:14:9-32
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:14:9-32
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:17:5-80
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:17:5-80
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:17:22-77
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:17:22-77
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:18:5-67
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:18:5-67
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:18:22-64
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:18:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:19:5-75
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:19:22-72
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:19:22-72
 application
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:21:5-56:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\y\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d52086dfbe0c44dad9c756c3bcfd3a9\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\y\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0d52086dfbe0c44dad9c756c3bcfd3a9\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:21:5-56:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\261630912fde017ddcaf1ab8b66d558b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hojun_window\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\261630912fde017ddcaf1ab8b66d558b\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:24:9-41
 	tools:ignore
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:26:9-48
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:26:9-48
 	android:icon
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:23:9-45
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:23:9-45
 	android:allowBackup
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:25:9-40
 activity#org.andresoviedo.app.model3D.MainActivity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:27:9-35:20
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:29:13-45
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:28:13-69
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:28:13-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:33:27-74
 activity#org.andresoviedo.app.model3D.view.MenuActivity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:36:9-39:86
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:36:9-39:86
 	android:parentActivityName
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:39:13-83
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:39:13-83
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:38:13-56
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:38:13-56
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:37:13-74
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:37:13-74
 activity#org.andresoviedo.util.view.TextActivity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:40:9-43:86
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:40:9-43:86
 	android:parentActivityName
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:43:13-83
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:43:13-83
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:42:13-56
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:42:13-56
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:41:13-67
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:41:13-67
 activity#org.andresoviedo.app.model3D.view.ModelActivity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:44:9-50:20
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:44:9-50:20
 	android:parentActivityName
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:47:13-83
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:47:13-83
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:46:13-57
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:46:13-57
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:45:13-75
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:45:13-75
 activity#org.andresoviedo.app.model3D.Create_STL_Activity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:51:9-53:60
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:51:9-53:60
 	android:label
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:53:13-57
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:53:13-57
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:52:13-76
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:52:13-76
 activity#org.andresoviedo.app.model3D.PopUpActivity
-ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:54:9-55:76
+ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:54:9-55:76
 	android:theme
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:55:13-64
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:55:13-64
 	android:name
-		ADDED from C:\Users\y\GitExample\app\src\main\AndroidManifest.xml:54:19-76
+		ADDED from C:\Users\hojun_window\Desktop\GitExample\app\src\main\AndroidManifest.xml:54:19-76
