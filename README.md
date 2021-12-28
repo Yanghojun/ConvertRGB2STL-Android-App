@@ -1,12 +1,10 @@
-You can import this project into your android studio with its function.
+### Configuration
+`Android 8.1 (Oreo) -> API Level 27` <br>
 
-if you success to launch this app on your device
- 1)Create STL
- 2)Select image
- 3)Create STL file
- 
- if Creating was successful
- go back to main
- 
- 4)Load Model -> Extenal Storage -> 0 -> STL
- Finally you can see your file you created with name you write!!
+### How to use
+ 1. Press Create STL
+ 2. Press Select image
+ 3. Create STL file
+ 4. Go back to menu
+ 5. Load Model -> External Storage -> 0 -> STL
+ 6. Enjoy
